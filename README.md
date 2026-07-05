@@ -1,7 +1,8 @@
 # myfirst-repo
 this is my first git repository
 <br>
-Author - Hardi shah
+Author - Hardi M. shah
+<br>
 Features
 1. User Management
 ● Student/Admin accounts
